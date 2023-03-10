@@ -8,13 +8,11 @@ Fork on GitHub3984
 <img align="right" alt="coding gif" width="400"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
  - 🔭 I’m currently studying Computer engineering at : **ESTIN**
 
- - 🌱 I’m currently learning **React.js**
-
- - 💬 Ask me about **javaScript , css .**
+ - 💬 Ask me about : **javaScript , css **
 
  - 📫 How to reach me :**y_allaoua@estin.dz**
 
- - 📄 Know about my experiences [https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/drive/u/1/my-drive)
+ - 📄 Know about my experiences (resume link): [https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/drive/u/1/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
